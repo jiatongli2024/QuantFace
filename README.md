@@ -3,12 +3,6 @@
 
 Jiatong Li, Libo Zhu, [HaoTong Qin](https://htqin.github.io/), Jingkai Wang, [Linghe Kong](https://www.cs.sjtu.edu.cn/~linghe.kong/), [Guihai Chen](https://scholar.google.com.hk/citations?user=rqZWbYgAAAAJ&hl=en), [Yulun Zhang](http://yulunzhang.com/), and [Xiaokang Yang](https://scholar.google.com/citations?user=yDEavdMAAAAJ) "QuantFace: Low-Bit Post-Training Quantization for One-Step Diffusion Face Restoration", arXiv, 2025
 
-<div>
-<a href="https://github.com/zhengchen1999/Grounding-IQA/releases" target='_blank' style="text-decoration: none;"><img src="https://img.shields.io/github/downloads/zhengchen1999/Grounding-IQA/total?color=green&style=flat"></a>
-<a href="https://github.com/zhengchen1999/Grounding-IQA" target='_blank' style="text-decoration: none;"><img src="https://visitor-badge.laobi.icu/badge?page_id=zhengchen1999/Grounding-IQA"></a>
-<a href="https://github.com/zhengchen1999/Grounding-IQA/stargazers" target='_blank' style="text-decoration: none;"><img src="https://img.shields.io/github/stars/zhengchen1999/Grounding-IQA?style=social"></a>
-</div>
-
 [[arXiv](https://arxiv.org/pdf/2410.04224)] [[supplementary material](https://github.com/JianzeLi-114/DFOSD)] [visual results] [models]
 
 
