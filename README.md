@@ -41,14 +41,14 @@ We achieve impressive performance on the Synthetic Datasets and the Real-World D
 - Results in Tab. 1 of the main paper
 
 <p align="center">
-  <img width="900" src="figs/quantitive_synthetic.png">
+  <img width="900" src="figs/quantitative_synthetic.png">
 </p>
 
 
 - Results in Tab. 3 of the main paper
 
 <p align="center">
-  <img width="900" src="figs/quantitive_realworld.png">
+  <img width="900" src="figs/quantitative_realworld.png">
 </p>
 </details>
 
