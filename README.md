@@ -13,10 +13,18 @@
 
 ---
 
-> **Abstract:** Diffusion models have been achieving remarkable performance in face restoration. However, the heavy computations of diffusion models make it difficult to deploy them on devices like smartphones. In this work, we propose QuantFace, a novel low-bit quantization for one-step diffusion face restoration models, where the full-precision (\ie, 32-bit) weights and activations are quantized to 4$\sim$6-bit. We first analyze the data distribution within activations and find that they are highly variant. To preserve the original data information, we employ rotation-scaling channel balancing. Furthermore, we propose Quantization-Distillation Low-Rank Adaptation (QD-LoRA) that jointly optimizes for quantization and distillation performance. Finally, we propose an adaptive bit-width allocation strategy. We formulate such a strategy as an integer programming problem, which combines quantization error and perceptual metrics to find a satisfactory resource allocation. Extensive experiments on the synthetic and real-world datasets demonstrate the effectiveness of QuantFace under 6-bit and 4-bit. QuantFace achieves significant advantages over recent leading low-bit quantization methods for face restoration.
+> **Abstract:** Diffusion models have been achieving remarkable performance in face restoration. However, the heavy computations of diffusion models make it difficult to deploy them on devices like smartphones. In this work, we propose QuantFace, a novel low-bit quantization for one-step diffusion face restoration models, where the full-precision (i.e., 32-bit) weights and activations are quantized to 4~6-bit. We first analyze the data distribution within activations and find that they are highly variant. To preserve the original data information, we employ rotation-scaling channel balancing. Furthermore, we propose Quantization-Distillation Low-Rank Adaptation (QD-LoRA) that jointly optimizes for quantization and distillation performance. Finally, we propose an adaptive bit-width allocation strategy. We formulate such a strategy as an integer programming problem, which combines quantization error and perceptual metrics to find a satisfactory resource allocation. Extensive experiments on the synthetic and real-world datasets demonstrate the effectiveness of QuantFace under 6-bit and 4-bit. QuantFace achieves significant advantages over recent leading low-bit quantization methods for face restoration.
 
 ![](figs/pipeline.png)
-Pipeline of QuantFace.
+---
+
+<!-- ![vis-main-top](images/vis-main-top.png) -->
+
+[<img src="figs/eddie_sutton_cover.png" height="242"/>](https://imgsli.com/Mzg0Njc1) [<img src="figs/abba_eban_cover.png" height="242"/>](https://imgsli.com/Mzg0Njgy) [<img src="figs/lisa_girman_cover.png" height="242"/>](https://imgsli.com/Mzg0Njg4) [<img src="figs/webphoto_0030_cover.png" height="242"/>](https://imgsli.com/Mzg0Njkx)
+
+[<img src="figs/webphoto_0038_cover.png" height="242"/>](https://imgsli.com/Mzg0Njkw) [<img src="figs/wider_0014_cover.png" height="242"/>](https://imgsli.com/Mzg0NzEy) [<img src="figs/wider_0072_cover.png" height="242"/>](https://imgsli.com/Mzg0NzEz) [<img src="figs/wider_0383_cover.png" height="242"/>](https://imgsli.com/Mzg0NzE1)
+
+---
 
 ## 🔖 TODO
 
