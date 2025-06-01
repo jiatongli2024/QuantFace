@@ -20,9 +20,9 @@
 
 <!-- ![vis-main-top](images/vis-main-top.png) -->
 
-[<img src="figs/eddie_sutton_cover.png" height="242"/>](https://imgsli.com/Mzg0Njc1) [<img src="figs/abba_eban_cover.png" height="242"/>](https://imgsli.com/Mzg0Njgy) [<img src="figs/lisa_girman_cover.png" height="242"/>](https://imgsli.com/Mzg0Njg4) [<img src="figs/webphoto_0030_cover.png" height="242"/>](https://imgsli.com/Mzg0Njkx)
+[<img src="figs/eddie_sutton_cover.png" height="200"/>](https://imgsli.com/Mzg0Njc1) [<img src="figs/abba_eban_cover.png" height="200"/>](https://imgsli.com/Mzg0Njgy) [<img src="figs/lisa_girman_cover.png" height="200"/>](https://imgsli.com/Mzg0Njg4) [<img src="figs/webphoto_0030_cover.png" height="200"/>](https://imgsli.com/Mzg0Njkx)
 
-[<img src="figs/webphoto_0038_cover.png" height="242"/>](https://imgsli.com/Mzg0Njkw) [<img src="figs/wider_0014_cover.png" height="242"/>](https://imgsli.com/Mzg0NzEy) [<img src="figs/wider_0072_cover.png" height="242"/>](https://imgsli.com/Mzg0NzEz) [<img src="figs/wider_0383_cover.png" height="242"/>](https://imgsli.com/Mzg0NzE1)
+[<img src="figs/webphoto_0038_cover.png" height="200"/>](https://imgsli.com/Mzg0Njkw) [<img src="figs/wider_0014_cover.png" height="200"/>](https://imgsli.com/Mzg0NzEy) [<img src="figs/wider_0072_cover.png" height="200"/>](https://imgsli.com/Mzg0NzEz) [<img src="figs/wider_0383_cover.png" height="200"/>](https://imgsli.com/Mzg0NzE1)
 
 ---
 
