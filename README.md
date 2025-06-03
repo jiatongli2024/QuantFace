@@ -3,7 +3,7 @@
 
 [Jiatong Li](https://github.com/jiatongli2024), [Libo Zhu](https://github.com/LiBoZhu030073), [HaoTong Qin](https://htqin.github.io/), [Jingkai Wang](https://github.com/jkwang28), [Linghe Kong](https://www.cs.sjtu.edu.cn/~linghe.kong/), [Guihai Chen](https://scholar.google.com.hk/citations?user=rqZWbYgAAAAJ&hl=en), [Yulun Zhang](http://yulunzhang.com/), and [Xiaokang Yang](https://scholar.google.com/citations?user=yDEavdMAAAAJ) "QuantFace: Low-Bit Post-Training Quantization for One-Step Diffusion Face Restoration", arXiv, 2025
 
-[arXiv] [[supplementary material](https://github.com/jiatongli2024/QuantFace/releases/download/v1/supp.pdf)] [visual results] [models]
+[[arXiv](https://arxiv.org/pdf/2506.00820)] [[supplementary material](https://github.com/jiatongli2024/QuantFace/releases/download/v1/supp.pdf)] [visual results] [models]
 
 
 
@@ -81,7 +81,12 @@ We achieve impressive performance on the Synthetic Datasets and the Real-World D
 If you find the code helpful in your research or work, please cite the following paper(s).
 
 ```
-
+@article{li2025quantfacelowbitposttrainingquantization,
+      title={QuantFace: Low-Bit Post-Training Quantization for One-Step Diffusion Face Restoration}, 
+      author={Jiatong Li and Libo Zhu and Haotong Qin and Jingkai Wang and Linghe Kong and Guihai Chen and Yulun Zhang and Xiaokang Yang},
+      journal={arXiv preprint arXiv:2506.00820},
+      year={2025}
+}
 ```
 
 ## <a name="acknowledgements"></a>💡 Acknowledgements
